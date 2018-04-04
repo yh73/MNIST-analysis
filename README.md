@@ -1,3 +1,3 @@
 "# MNIST-analysis" 
 
-This program analyzes MNIST dataset using multi-layer perceptron, K-Nearst Neighbors, and Naive Bayers Classifier.
+This program analyzes MNIST dataset using neural network and linear regression. Installation of PyTorch is needed to perform multi-layer perceptron.
